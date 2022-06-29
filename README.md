@@ -1,4 +1,4 @@
-They keep us sane, yes, and yet you seem to lust for their blood anyways...
+:3 
 
 Links:
 - Twitch: https://www.twitch.tv/chillspider123
