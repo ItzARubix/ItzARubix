@@ -21,7 +21,15 @@ This can also explain away Cadmium and Bendalloy mistings. Cadmium and Bendalloy
 
 So, what are the implications? Well, first of all, if you're a misting for one of the 16 Periodic Metals, and you can find a way to alloy that metal with a Godmetal, you should probably be able to burn that too. Of course, the obvious example of this is the one we just talked about, with Electrum mistings being able to burn the Atium-Electrum alloy that everyone Pre-Harmony just called "Atium," but there is at least another example of this: Malatium. Just like "Atium" is an Atium-Electrum alloy, Malatium is a Atium-Gold alloy. If, as we assumed earlier, Godmetals follow some internally consistent logic, that means that Gold mistings should be able to burn Malatium too. This also means that there might be ways to alloy Lerasium or even... Tanavastium and the other Godmetals? I find the concept of someone eating an Honorblade very funny, but... it could be possible. 
 
-Here's another important implication: Pure Atium should be burnable by anyone, just like pure Lerasium. 
+Here's another important implication: Pure Atium should be burnable by anyone, just like pure Lerasium. I still don't know how this plays with other Godmetals like Tanavastium, but it might have some implications. Silverlight, if you're reading this, see what it might mean. 
+
+All this leaves one question: What *does* Pure Atium do, when burned as an Allomantic metal? We don't have a lot to work off of in terms of analogies. When Lerasium is used as a Hemalurgic spike, it steals all abilities, but it is mentioned that this wastes the potential of the Lerasium. What this implies is inclear. Lerasium's Allomantic power is very strong, so perhaps the "loss of potential" refers to the inability to burn the Lerasium. Unfortunately, considering no one has had any access to Lerasium since Ruin and Preservation combined to create Harmony, and considering the fact that we still have no idea what the effects of burning a Hemalurgic Spike using Allomancy are, we can't really draw any conclusions on that. 
+
+That's beyond the point, however. What is the point is that we know what Lerasium does as a Hemalurgic Spike, which might help us in determining what Atium does as an Allomantic metal. I have two different guesses, with little proof for each:
+- Burning Atium steals the Allomantic powers of those around you (either a target whom you must touch, or a general "wave" which steals within a radius)
+- Burning Atium simply causes an Allomancer to lose their powers (either a target whom you must touch, or a general "wave" which destroys within a radius)
+
+Actually, on that topic, we don't even know what Lerasium does Allomantically. We know that Lerasium *does* cause people to become Mistborn (Or it turns them into a stronger Mistborn if they are already an Allomancer), but supposedly, this is just a side effect of Lerasium. What is its main effect? It has something to do with altering the burner's sDNA, but we have little information beyond that. 
 
 Links:
 - Twitch: https://www.twitch.tv/chillspider123
