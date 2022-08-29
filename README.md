@@ -7,7 +7,7 @@ Current Hemalurgic Spikes:
 
 I find my current predicament to be quite strange. Frustrating, yes, but strange nevertheless. My hindrances are not ones of Shards, but of common men. Perhaps that's what makes my inability to escape them so frustrating.
 
-But I am a scholar at heart. Indeed, although I have found difficulty in being unable to communicate with friends, not being able to communicate with my fellow scholars has proven to be a more... pragmatic frustration. Without that communication, verifying my findings becomes impossible, and finding information that I reference for current theories is difficult. 
+But I am a scholar at heart. Indeed, not being able to communicate with my fellow scholars has proven to be a... pragmatic frustration. Without that communication, verifying my findings becomes impossible, and finding information that I reference for current theories is difficult. 
 
 The communal Coppermind mentions Atium a lot. And what's frustrating is how wrong it is. But, what's even more frustrating is how wrong *we* were. Looking back through the histories, back to just days before Harmony was created, and you'll find something strange: Atium mistings. Now, those of you who have studied under Khriss in the last, oh, 100 or so years will know that Atium is a Godmetal, created by the Shard Ruin. Godmetals don't work the same way other metals do. There aren't supposed to be Atium mistings. We know that Lerasium can be burned by anyone, and, if we assume that Godmetals have internal consistency (even though they aren't consistent with Peroidic Metals), that would mean that anyone should be able to burn Atium too. It most certainly should mean that there aren't Atium mistings, who can only burn Atium and none of the other metals.
 
