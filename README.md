@@ -14,7 +14,9 @@ So, I think about a lot of stuff. And I don't like it when the stuff I think abo
 Oh yeah, if I *do* ever choose to program something, I'll post it here, too. 
 
 I read a lot of Brandon Sanderson, and so you can expect some of the stuff I talk about here to be related to that. 
+
 Also I do a lot of physics, as I mentioned earlier, so I'll probably include a lot of that stuff here, too. 
+
 Beyond that, what I'll talk about will probably be just... stuff that I was thinking about. Sometimes, I find weird, obscure pieces of internet trivia that I want to share, and so I'll post them here. 
 
 Stick around if you want, don't if you don't. 
