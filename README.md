@@ -1,4 +1,5 @@
 Currently reading: The Alloy of Law by Brandon Sanderson. 
+
 On the queue: 
 1. Shadows of Self
 2. Bands of Mourning
