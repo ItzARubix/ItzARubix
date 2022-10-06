@@ -1,3 +1,5 @@
+(Note: This was specifically written as if it was from the prespective of an in-universe character, rather than a simple informational piece. Because of this, there is something of an expectation of requisite knowledge before you can truly understand what I'm saying here. I apologize for this, I know that having to work to be able to read something is annoying)
+
 I find my current predicament to be quite strange. Frustrating, yes, but strange nevertheless. My hindrances are not ones of Shards, but of common men. Perhaps that's what makes my inability to escape them so frustrating.
 
 But I am a scholar at heart. Indeed, not being able to communicate with my fellow scholars has proven to be a... pragmatic frustration. Without that communication, verifying my findings becomes impossible, and finding information that I reference for current theories is difficult. 
