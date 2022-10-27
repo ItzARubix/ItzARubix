@@ -5,7 +5,7 @@ On the queue:
 2. Bands of Mourning
 3. The Lost Metal (as of writing this, it hasn't come out yet, but it probably will by the time I finish Bands of Mourning)
 4. Elantris
-5. Arcanum Unbounded
+5. Arcanum Unbounded (I've already read Edgedancer, Eleventh Metal, Secret History, and maybe a few others, but the rest of AU I still need to read)
 
 So, I should start by saying that I'm not a programmer, or a CS enthusiast, or anything of the sort. Not anymore, anyways. I'm a physics student, an academic. I also do a lot of writing, both creative and video-essay-like. 
 
