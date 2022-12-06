@@ -3,7 +3,7 @@ Currently reading: The Alloy of Law by Brandon Sanderson.
 On the queue: 
 1. Shadows of Self
 2. Bands of Mourning
-3. The Lost Metal (as of writing this, it hasn't come out yet, but it probably will by the time I finish Bands of Mourning)
+3. The Lost Metal 
 4. Elantris
 5. Arcanum Unbounded (I've already read Edgedancer, Eleventh Metal, Secret History, and maybe a few others, but the rest of AU I still need to read)
 
