@@ -29,6 +29,7 @@ Links:
 - YouTube: https://www.youtube.com/channel/UC3PuJYFsRyZ6YboooIAr2NQ
 - Repl.it: https://replit.com/@ItzARubix
 - Aops: https://artofproblemsolving.com/community/user/HostOfTheNightmare
+- That book that I wrote once: https://www.amazon.com/Many-Mysteries-Land-Called-Shazehi-ebook/dp/B0BKYFG5HX/
 - Writing Website (Outdated; I used to use this for my writing projects, and a lot of my older attempts at writing can be found here): https://sites.google.com/view/theglasslibrary/home
 
 <!---
