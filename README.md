@@ -1,11 +1,10 @@
-Currently reading: Shadows of Self by Brandon Sanderson. 
+Currently reading: Bands of Mourning by Brandon Sanderson. 
 
 On the queue: 
-1. Bands of Mourning
-2. The Lost Metal 
-3. Elantris
-4. Arcanum Unbounded (I've already read Edgedancer, Eleventh Metal, Secret History, and maybe a few others, but the rest of AU I still need to read)
-5. Secret Project 1 (Maybe?)
+1. The Lost Metal 
+2. Elantris
+3. Arcanum Unbounded (I've already read Edgedancer, Eleventh Metal, Secret History, and maybe a few others, but the rest of AU I still need to read)
+4. Secret Project 1 
 
 So, I should start by saying that I'm not a programmer, or a CS enthusiast, or anything of the sort. Not anymore, anyways. I'm a physics student, an academic. I also do a lot of writing, both creative and video-essay-like. 
 
