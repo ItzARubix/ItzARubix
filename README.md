@@ -1,4 +1,4 @@
-Currently reading: The Lost Metal by Brandon Sanderson. 
+Currently reading: Nothing lol (Finished The Lost Metal by Brandon Sanderson and now I just don't have the motivation to start anything new). 
 
 On the queue: 
 1. Elantris
