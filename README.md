@@ -1,4 +1,4 @@
-Currently reading: Nothing lol (Finished The Lost Metal by Brandon Sanderson and now I just don't have the motivation to start anything new). 
+Currently reading: Introduction to Topological Manifolds by John M. Lee (Finished The Lost Metal by Brandon Sanderson and now I just don't have the motivation to start anything new in terms of fiction). 
 
 On the queue: 
 1. Elantris
