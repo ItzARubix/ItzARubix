@@ -3,7 +3,11 @@ Currently reading: Introduction to Topological Manifolds by John M. Lee (Finishe
 On the queue: 
 1. Elantris
 2. Arcanum Unbounded (I've already read Edgedancer, Eleventh Metal, Secret History, and maybe a few others, but the rest of AU I still need to read)
-3. Secret Project 1 
+3. Secret Project 1
+
+On the queue queue (books that I haven't bought yet but intend to):
+1. Secret Project 3
+2. Secret Project 4
 
 So, I should start by saying that I'm not a programmer, or a CS enthusiast, or anything of the sort. Not anymore, anyways. I'm a physics student, an academic. I also do a lot of writing, both creative and video-essay-like. 
 
