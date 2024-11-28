@@ -1,0 +1,5 @@
+[window]
+dimensions = { columns = 132, lines = 34 }
+# use the above line when working with default font size
+
+# Rename to ".alacritty.toml" and place in home directory

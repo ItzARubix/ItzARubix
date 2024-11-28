@@ -1,0 +1,7 @@
+{
+    "diff": false,
+    "keymenu": true,
+    "linter": false,
+    "status": false,
+    "_comment": "Rename to settings.json and place in ~/.config/micro. Then remove this comment"
+}
